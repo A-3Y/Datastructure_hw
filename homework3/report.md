@@ -372,3 +372,9 @@ g++ -std=c++17 -o poly main.cpp Polynomial.cpp
 0
 3
 ```
+
+### 結論
+
+## 申論及開發報告
+
+### 題目分析與設計理念
